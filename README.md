@@ -56,7 +56,7 @@ The dataset contains the following columns:
 ## 📊 **Visualizations**
 Here are some key visualizations from the analysis:
 Conversion Rates by Test Group
-
+![Image 1](Image 1/image.png)
 
 
 
