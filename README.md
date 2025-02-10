@@ -1,4 +1,4 @@
-# A/B Testing  Insights for AdCampaign
+# A/B Testing for Marketing Campaing Ad: Measuring Conversion Rates
 
 ## 📊 **Project Overview**
 
@@ -55,8 +55,19 @@ The dataset contains the following columns:
 
 ## 📊 **Visualizations**
 Here are some key visualizations from the analysis:
-Conversion Rates by Test Group
-![Image 1](Image 1/image.png)
+### Conversion Rates by Day an Hour
+![Image 1](https://github.com/niha-v/A-B-Testing-insights-for-Ad-Campaign/blob/main/Image%201.png)
+
+### Bootstrapping Confidence Interval
+![Image 2](https://github.com/niha-v/A-B-Testing-insights-for-Ad-Campaign/blob/main/Image%202.png)
+
+### Conversion Rates by most ads and test group
+![Image 3](https://github.com/niha-v/A-B-Testing-insights-for-Ad-Campaign/blob/main/Image%203.png)
+
+---
+
+
+
 
 
 
@@ -66,7 +77,7 @@ Conversion Rates by Test Group
 
 
 📧 Contact
-For questions or feedback, feel free to reach out: niharika.umrani@gmail.com
+-- For questions or feedback, feel free to reach out: niharika.umrani@gmail.com
 ---
 
 
